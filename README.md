@@ -24,7 +24,7 @@ Ask me anything <a href="mailto:alperenksar@gmail.com"><b>email </b></a><b>here<
   <img src="https://raw.githubusercontent.com/alperenksar/Gifs/main/e5f4acbd-0184-41ee-a5f5-eb0215dcad75-shutterstock-1842522100.avif" align="right" width="366" height="200">
 <p>- 🔭 I’m currently working on Data Science and Game Developer</p>
 <p>- 🌱 I’m currently learning Asp.Net Core MVC,REACT and  Unity </p>
-<p>- 🤔 I’m looking for help with ...</p>
+<p>- 🤔 I am looking for help to get improved as a game developer</p>
 <p>- 💬 Ask me about everything</p>
 <p>- 📫 How to reach me: Press the button → <a href="mailto:alperenksar@gmail.com" target="_blank">GMAIL </a></p> 
 </div>
