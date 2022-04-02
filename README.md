@@ -19,12 +19,10 @@ Ask me anything <a href="mailto:alperenksar@gmail.com"><b>email </b></a><b>here<
 </div>
 <div >
 <p>- 🔭 I’m currently working on Data Science and Game Developer</p>
-<p>- 🌱 I’m currently learning Unity </p>
+<p>- 🌱 I’m currently learning Asp.Net Core MVC,REACT and  Unity </p>
 <p>- 🤔 I’m looking for help with ...</p>
 <p>- 💬 Ask me about everything</p>
-<p>- 📫 How to reach me: Press the  email buttons above or press the Instagram button below</p> 
-<p>- 😄 Pronouns: ...</p>
-<p>- ⚡ Fun fact: ...</p>
+<p>- 📫 How to reach me: Press the buttons <a href="mailto:alperenksar@gmail.com" target="_blank">G​�M​�A​�I​�L​ </a></p> 
 </div>
 
 
@@ -44,10 +42,6 @@ Ask me anything <a href="mailto:alperenksar@gmail.com"><b>email </b></a><b>here<
 
   <a target="_blank" href="https://www.instagram.com/alperenksar/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
   <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
-
-<a href="https://www.instagram.com/alperenksar" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-
-<a href="https://open.spotify.com/user/alperenasd" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 
 </div>
