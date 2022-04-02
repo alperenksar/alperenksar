@@ -1,5 +1,5 @@
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/alperenksar/alperenksar/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 <div align="center" width="50">
@@ -19,7 +19,7 @@ Ask me anything <a href="mailto:alperenksar@gmail.com"><b>email </b></a><b>here<
 - 🌱 I’m currently learning Unity 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about everything
-- 📫 How to reach me: Press the buttons below
+- 📫 How to reach me: Press the  email buttons above or press the Instagram button below 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
