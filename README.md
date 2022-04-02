@@ -8,11 +8,23 @@
 
 </div>
 
+
 <div align="center">
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="mailto:alperenksar@gmail.com"><b>email </b></a><b>here</b></a><br>
+
+- 🔭 I’m currently working on Data Science and Game Developer
+- 🌱 I’m currently learning Unity 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about everything
+- 📫 How to reach me: Press the buttons below
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+-----
 
 
 <i>Happy Coding!</i> 😊
@@ -46,15 +58,5 @@ Ask me anything <a href="mailto:alperenksar@gmail.com"><b>email </b></a><b>here<
 
 
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on Data Science and Game Developer
-- 🌱 I’m currently learning Unity 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about everything
-- 📫 How to reach me: Press the buttons below
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
------
 
