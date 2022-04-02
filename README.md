@@ -17,7 +17,7 @@ Ask me anything <a href="mailto:alperenksar@gmail.com"><b>email </b></a><b>here<
 <i>Happy Coding!</i> 😊
 
 </div>
-<div >
+<div align="right">
 - 🔭 I’m currently working on Data Science and Game Developer
 - 🌱 I’m currently learning Unity 
 - 🤔 I’m looking for help with ...
