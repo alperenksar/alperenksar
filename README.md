@@ -12,8 +12,11 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
+  
 I want to improve my skills at this field and continue my development  until I reach perfection which will last forever .<br>
+  
 Ask me anything <a href="mailto:alperenksar@gmail.com"><b>email </b></a><b>here</b></a><br>
+
 <i>Happy Coding!</i> 😊
 
 </div>
