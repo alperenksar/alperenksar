@@ -28,7 +28,9 @@ Ask me anything <a href="mailto:alperenksar@gmail.com"><b>email </b></a><b>here<
 <p>- 💬 Ask me about everything</p>
 <p>- 📫 How to reach me: Press the button → <a href="mailto:alperenksar@gmail.com" target="_blank">GMAIL </a></p> 
 </div>
-
+</br>
+</br></br>
+</br>
 
 <div align="center">
 
