@@ -18,13 +18,13 @@ Ask me anything <a href="mailto:alperenksar@gmail.com"><b>email </b></a><b>here<
 
 </div>
 <div align="right">
-<i>- 🔭 I’m currently working on Data Science and Game Developer</i>
-<i>- 🌱 I’m currently learning Unity </i>
-<i>- 🤔 I’m looking for help with ...</i>
-<i>- 💬 Ask me about everything</i>
-<i>- 📫 How to reach me: Press the  email buttons above or press the Instagram button below</i> 
-<i>- 😄 Pronouns: ...</i>
-<i>- ⚡ Fun fact: ...</i>
+<p>- 🔭 I’m currently working on Data Science and Game Developer</p>
+<p>- 🌱 I’m currently learning Unity </p>
+<p>- 🤔 I’m looking for help with ...</p>
+<p>- 💬 Ask me about everything</p>
+<p>- 📫 How to reach me: Press the  email buttons above or press the Instagram button below</p> 
+<p>- 😄 Pronouns: ...</p>
+<p>- ⚡ Fun fact: ...</p>
 </div>
 
 
