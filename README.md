@@ -12,7 +12,7 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+I want to improve my skills at this field and continue my development  until I reach perfection which will last forever .<br>
 Ask me anything <a href="mailto:alperenksar@gmail.com"><b>email </b></a><b>here</b></a><br>
 
 - 🔭 I’m currently working on Data Science and Game Developer
