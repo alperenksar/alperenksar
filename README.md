@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/alperenksar/Gifs/blob/main/matG9VMO.gif" width="600" height="100"/>
+<img src="https://github.com/alperenksar/Gifs/blob/main/matG9VMO.gif" width="650" height="80"/>
 
 </div>
 
