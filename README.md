@@ -22,7 +22,7 @@ Ask me anything <a href="mailto:alperenksar@gmail.com"><b>email </b></a><b>here<
 <p>- 🌱 I’m currently learning Asp.Net Core MVC,REACT and  Unity </p>
 <p>- 🤔 I’m looking for help with ...</p>
 <p>- 💬 Ask me about everything</p>
-<p>- 📫 How to reach me: Press the buttons <a href="mailto:alperenksar@gmail.com" target="_blank">G●M●A●I●L </a></p> 
+<p>- 📫 How to reach me: Press the buttons <a href="mailto:alperenksar@gmail.com" target="_blank">GMAIL </a></p> 
 </div>
 
 
