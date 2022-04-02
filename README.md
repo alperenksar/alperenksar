@@ -14,7 +14,10 @@
 You have finally discovered my Github profile. <br>
 I want to improve my skills at this field and continue my development  until I reach perfection which will last forever .<br>
 Ask me anything <a href="mailto:alperenksar@gmail.com"><b>email </b></a><b>here</b></a><br>
+<i>Happy Coding!</i> 😊
 
+</div>
+<div >
 - 🔭 I’m currently working on Data Science and Game Developer
 - 🌱 I’m currently learning Unity 
 - 🤔 I’m looking for help with ...
@@ -22,14 +25,8 @@ Ask me anything <a href="mailto:alperenksar@gmail.com"><b>email </b></a><b>here<
 - 📫 How to reach me: Press the  email buttons above or press the Instagram button below 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
------
-
-
-<i>Happy Coding!</i> 😊
-
 </div>
+
 
 <div align="center">
 
